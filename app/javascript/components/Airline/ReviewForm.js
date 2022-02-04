@@ -52,7 +52,7 @@ const Field = styled.div`
   input {
     min-height: 50px;
     border-radius: 4px;
-    border: 1px solid #e6e6e6;
+    border: 1px solid #91F7FF;
     margin: 0 0 12px 0;
     padding: 12px;
     width: 96%;
@@ -62,7 +62,7 @@ const Field = styled.div`
     width: 100%;
     min-height: 80px;
     border-radius: 4px;
-    border: 1px solid #e6e6e6;
+    border: 1px solid #91F7FF;
     margin: 12px 0;
     padding: 12px;
   }
@@ -81,12 +81,12 @@ const SubmitBtn = styled.button`
   font-size: 18px;
   cursor: pointer;
   transition: ease-in-out 0.1s;
-  border: 1px solid #fff;
+  border: 1px solid #63F1FC;
   width: 100%;
   margin-top: 20px;
 
   &:hover {
-    background: #fff;
+    background: #63F1FC;
     color: #000;
     border: 1px solid #fff;
   }

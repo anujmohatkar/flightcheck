@@ -49,3 +49,5 @@ gem 'fast_jsonapi'
 
 #Gem to load environment variables
 #gem 'dotenv-rails', groups: [:development, :test]
+
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.8'

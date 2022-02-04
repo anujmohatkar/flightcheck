@@ -71,6 +71,8 @@ GEM
     fast_jsonapi (1.5)
       activesupport (>= 4.2)
     ffi (1.15.5-x64-mingw32)
+    font-awesome-rails (4.7.0.8)
+      railties (>= 3.2, < 8.0)
     globalid (1.0.0)
       activesupport (>= 5.0)
     i18n (1.8.11)
@@ -175,6 +177,7 @@ DEPENDENCIES
   bootsnap (>= 1.4.4)
   byebug
   fast_jsonapi
+  font-awesome-rails (~> 4.7, >= 4.7.0.8)
   jbuilder (~> 2.7)
   pg (~> 1.1)
   puma (~> 5.0)
